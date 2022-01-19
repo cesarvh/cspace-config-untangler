@@ -1,0 +1,244 @@
+{
+  "mappers": [
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "exhibition",
+      "digest": "c5a27d33eaad1f0f573a215e952a2da2c8377931dbbae01ec00c14c78e5af2d3",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_exhibition.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "acquisition",
+      "digest": "85540182eef4d80c30724f43a2a74d7e32c0ebbdcf9ae2e30301358071d6c680",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_acquisition.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "movement",
+      "digest": "3db11f8c07bb363a59cb424ff1325b25101d000a80edf4ce36c8ab54918b473c",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_movement.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "location-local",
+      "digest": "daac87a63f385c00f8a672923f7960bb8507e9b0f0bc756652070bf84bdf699f",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_location-local.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "person-local",
+      "digest": "bead8f83f29a2b123d8007fe5c485f3e69283984ad2e28c45ea997c9715c8d60",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_person-local.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "concept-genre",
+      "digest": "30f17bcb87e8696b93213af803786c044436a1b12179f164b711e9fb3f214e7c",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_concept-genre.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "nonhierarchicalrelationship",
+      "digest": "712bad5baae69c7088037802010ab535d004e5852e0f0ee5835686111d1e26c3",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_nonhierarchicalrelationship.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "intake",
+      "digest": "0aeba56eba45754d9a727094933bbc7f8235da3e1bbcb19bb78d5b4ea143847b",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_intake.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "organization-local",
+      "digest": "7e845f20a1e150fa7a7b38623be47628aa084c27f488967a6e29daf7c3215c76",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_organization-local.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "authorityhierarchy",
+      "digest": "e61c3f14ffea661bd5646d2ea37540f0e1109ae0fef05e93440895fcc7714334",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_authorityhierarchy.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "concept-theme",
+      "digest": "7e4990a0c028e2f6aeb19d58169a079f68b8745607cb3fb1ffa90b63583da998",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_concept-theme.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "organization-committee",
+      "digest": "374435c063ea1be328e6d2cd731098ce23539458c0822ffaa01f434b2c14ab91",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_organization-committee.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "collectionobject",
+      "digest": "1280a43582783a5f9756ad98bba62d35e3dcab5f056b1aa5d97415a9796e1c1e",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_collectionobject.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "loanin",
+      "digest": "edd22db65e552de8ae0f252ab9687c6d778ff8ac09a7ccdb5b9fca6014fbcd9c",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_loanin.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "concept-associated",
+      "digest": "ced4a5fe65873a99793442603774194d719f27c20570e76648304a772a1fd3ac",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_concept-associated.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "objecthierarchy",
+      "digest": "ae5d52a9b5a9e0465e8466194329a2a564a032b9b8be0610e28dd937c2a13083",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_objecthierarchy.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "loanout",
+      "digest": "faa821b315b61b9cc75c0a4894220d8f719d11100e4f276e9dd9089edd708193",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_loanout.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "hit",
+      "digest": "b001af6079d44090e78334d4b9be53e7922fb3dc6a0b70ef82f82a1a895b0fef",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_hit.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "conservation",
+      "digest": "88fc6d33cfa14eb4d7cd1903b627d77ae133476471249e86cf37629006cc48a7",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_conservation.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "group",
+      "digest": "c2f6e7dd890d06cbc5055db0cec13c40ae42d7fb40ea216a1f46cb17436ac1dc",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_group.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "place-local",
+      "digest": "277886c9862cb9ae211413b1759f739a85c168b6104a62f20e317df1f14f5fe5",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_place-local.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "uoc",
+      "digest": "cf356e217e57a02a4f4e3ebc15e84fca5118b74eeddc629ec6098bde215e9c40",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_uoc.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "concept-nomenclature",
+      "digest": "d79f0741795a2b50baafe445cf0d034ffe56ba090b2930bff0a0b36f3d554419",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_concept-nomenclature.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "conditioncheck",
+      "digest": "5d4af6e439a433cc49699f07262f45f2f9eeac2bcacf7088dbf69080150ae45c",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_conditioncheck.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "citation-local",
+      "digest": "361e5714c7508d7a50ecea589399ab0384d861af95c7316f559c2ec86e947383",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_citation-local.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "objectexit",
+      "digest": "9fa9d406cf8b041c58ff44ae6466bd02525adf44d1442c6ec27b49da9a828c92",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_objectexit.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "valuation",
+      "digest": "8b5a569f675520f293fda2d052dda1b5e9358887e2c7e8c17094523138cec3cf",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_valuation.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "concept-occasion",
+      "digest": "2af875e2130b60cc716e4645f627fe0b89bb5926d3a5ff4b0f99509a3185c935",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_concept-occasion.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "work-local",
+      "digest": "71fe2d34212ee8d838a8242ec2f485bcd976f1c937128fafb577a3b459d8423b",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_work-local.json"
+    },
+    {
+      "profile": "cinefiles",
+      "version": "1-0-14",
+      "type": "media",
+      "digest": "bcb20e43648fd673f2200ae0f1b6dd6ed2ee230fdda596e08a48f0c7f320f301",
+      "enabled": true,
+      "url": "https://raw.githubusercontent.com/cspace-deployment/cspace-config-untangler/main/data/mappers/ucb/release_6_0/cinefiles/cinefiles_1-0-14_media.json"
+    }
+  ]
+}
